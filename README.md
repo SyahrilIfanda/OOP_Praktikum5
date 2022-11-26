@@ -4,7 +4,7 @@
 ## Kelas : TI.21.C2
 ## NIM : 312110570
 
-## CONSTRUCTOR
+# CONSTRUCTOR
 
 •Constructor merupakan method khusus yang digunakan untuk menginisialisasi objek.
 •Constructor dipanggil ketika objek kelas dibuat (instance).
